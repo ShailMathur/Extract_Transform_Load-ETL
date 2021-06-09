@@ -6,7 +6,6 @@ Group Members
 
 Albe Eteme
 Hussein Issa
-James Richards
 Jane Kim
 Shailja Mathur
 
