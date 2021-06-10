@@ -27,29 +27,9 @@ alldata.csv - https://www.kaggle.com/sl6149/data-scientist-job-market-in-the-us
 
 Research Questions 
 What is the salary range of a Data Scientist in a particular location?
+
 Relationship between Salary and Company rating?
+
 What is the impact of the data set used with the market requirements?
+
 The objective of this part is to define the problem statement of this data to figure out what are the factors the researchers go for (employers , recruiters or employees )?
-
-# ETL Project Report
-
-Project Name
-
-Project Members - Albe Eteme
-Hussein Issa
-James Richards
-Jane Kim
-Shailja Mathur
-
-Sources of data:
-
-Transformation of the data:
-
--Several columns were removed and renamed.
-
-Type of final production database data is loaded into:
-We used a relational database (PostgreSQL) to link the data by our common identifier, .....
-
-Final tables/collections that we used in the production database:
-
-New final table with found/calculated values .
