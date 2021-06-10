@@ -32,4 +32,4 @@ Relationship between Salary and Company rating?
 
 What is the impact of the data set used with the market requirements?
 
-The objective of this part is to define the problem statement of this data to figure out what are the factors the researchers go for (employers , recruiters or employees )?
+The objective of this part is to define the problem statement of this data to figure out what are the factors the researchers go for (employers , recruiters or employees)?
