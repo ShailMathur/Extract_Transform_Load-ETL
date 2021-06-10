@@ -1,15 +1,18 @@
 # ETL-Project
 
-# ETL Project Proposal
+# Project Proposal
 
 Group Members
 
 Albe Eteme
+
 Hussein Issa
+
 Jane Kim
+
 Shailja Mathur
 
-# Project Proposal
+
 We used 2 datasets from the public platform Kaggle. Amidst the pandemic many people lost their jobs, with this ETL project, As fellow data scientists we’re looking to help job searchers find their qualifying positions through listings such as salary, company, location, and ratings.
 
 This dataset contains many job listings for data scientist positions, with features such as: 
